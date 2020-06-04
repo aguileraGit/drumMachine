@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-04-13T01:01:48Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Adafruit ItsyBitsy M0"
+        },
+        "Owner": "Diego Aguilera <diegoa@aguilera.me>",
+        "Size": {
+            "X": 121.308791,
+            "Y": 109.213234
+        }
+    }
+}

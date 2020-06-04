@@ -1,0 +1,17 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"AVAILABILITY";"BOM";"CENTERLINE_PITCH";"COMMENT";"DESCRIPTION";"DK_PN";"JLC_PN";"MF";"MP";"NUMBER_OF_POSITIONS";"PACKAGE";"PN";"POPULARITY";"PRICE";"PRODUCT_TYPE";"TE_PURCHASE_URL";
+"1";"";"PINHD-2X2";"2X02";"JP2";"PIN HEADER";"";"";"";"";"";"";"";"";"";"";"";"";"0";"";"";"";
+"7";"0";"RESISTOR_0603_NOOUT";"0603-NO";"R3, R4, R5, R6, R8, R9, R10";"Resistors";"";"";"";"";"";"P0.0GCT-ND";"0";"";"";"";"";"";"";"";"";"";
+"2";"100k";"RESISTOR_0603_NOOUT";"0603-NO";"R1, R2";"Resistors";"";"";"";"";"";"P100KDBCT-ND";"100k";"";"";"";"";"";"";"";"";"";
+"2";"10µF";"CAP_CERAMIC0805-NOOUTLINE";"0805-NO";"C6, C8";"Ceramic Capacitors";"";"";"";"";"";"490-14381-1-ND";"10uF";"";"";"";"";"";"";"";"";"";
+"3";"1uF";"CAP_CERAMIC0603_NO";"0603-NO";"C1, C5, C7";"Ceramic Capacitors";"";"";"";"";"";"399-17705-1-ND";"1uF";"";"";"";"";"";"";"";"";"";
+"7";"1uF";"CAP_CERAMIC0603_NO";"0603-NO";"C2, C3, C4, C9, C10, C11, C12";"Ceramic Capacitors";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"1";"2.2K";"RESISTOR_0603_NOOUT";"0603-NO";"R7";"Resistors";"";"";"";"";"";"P2.2KDBCT-ND";"2.2k";"";"";"";"";"";"";"";"";"";
+"1";"2040002-1";"2040002-1";"TE_2040002-1";"J1";"Conn USB Type B RCP 5 POS 0.65mm Solder RA SMD 5 Terminal 1 Port T/R";"Unavailable";"";".65 mm[.025 in]";"2040002-1";" Conn Micro USB 2.0 Type B RCP 5 POS 0.65mm Solder RA SMD 5 Terminal 1 Port T/R ";"A108263CT-ND";"";"TE Connectivity";"2040002-1";"5";"None";"2040002-1";"";"None";"Connector";"https://www.te.com/usa-en/product-2040002-1.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493";
+"7";"AP102-2020";"APA1022020";"APA102_2020";"L1, L2, L3, L4, L5, L6, L7";"APA102/DotStar Pixels";"";"";"";"";"";"1528-1826-ND";"";"";"";"";"";"3341";"";"";"";"";
+"1";"AP2112K-3.3";"VREG_SOT23-5";"SOT23-5";"U2";"SOT23-5 Fixed Voltage Regulators";"";"";"";"";"";"AP2112K-3.3TRG1DICT-ND";"AP2112K-3.3TRG1";"";"";"";"";"AP2112K-3.3TRG1";"";"";"";"";
+"1";"ATSAMD21G18";"ATSAMD21G_QFN";"TQFN48_7MM";"U$4";"";"";"";"";"";"";"ATSAMD21G18A-MU-ND";"";"";"";"";"";"ATSAMD21G18A-MU";"";"";"";"";
+"2";"FIDUCIAL_1MM";"FIDUCIAL_1MM";"FIDUCIAL_1MM";"U$34, U$35";"Fiducial Alignment Points";"";"EXCLUDE";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"1";"MBR120";"DIODE_SOD-123FL";"SOD-123FL";"D2";"Diode";"";"";"";"";"";"MBR120LSFT1GOSCT-ND";"MBR120LSF";"";"";"";"";"";"";"";"";"";
+"1";"RED";"LED0805_NOOUTLINE";"CHIPLED_0805_NOOUTLINE";"L";"LED";"";"";"";"";"";"475-1415-1-ND";"RED LED";"";"";"";"";"";"";"";"";"";
+"1";"SPST_TACT-KMR2";"SPST_TACT-KMR2";"KMR2";"SW1";"SMT 6mm switch, EVQQ2 series";"";"";"";"";"";"401-1426-1-ND";"";"";"";"";"";"KMR211GLFS";"";"";"";"";
+"1";"flash";"SPIFLASH_8PINUX";"USON8";"U1";"SOIC8 SPI Flash";"";"";"";"";"";"1092-1184-1-ND";"";"";"";"";"";"MX25R2035FZUIL0";"";"";"";"";
