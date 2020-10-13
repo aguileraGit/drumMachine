@@ -3,6 +3,7 @@
 - Downloaded SVG: https://www.flaticon.com/free-icon/drum-set_1776571
 - Used Inkspace to slice and dice into layers (See folder)
 - Convert SVG layers into Eagle scr. (See folder) https://gfwilliams.github.io/svgtoeagle/
+ - Mask: Take part to mask. Add 10px stroke. Select Path. Path-Outset
 - Merge into ItsyBitsy-M0: https://github.com/adafruit/Adafruit-ItsyBitsy-M0-PCB
 - LEDs: https://www.digikey.com/products/en?mpart=3341&v=1528
 - https://learn.adafruit.com/introducing-itsy-bitsy-m0/pinouts

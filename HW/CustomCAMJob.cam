@@ -4,7 +4,7 @@
         "name": "Diego Aguilera"
     },
     "description": {
-        "EN": "EAGLE default 2 layer CAM job."
+        "EN": "Custom CAM - Don't forget to order as 1.2mm PCB height."
     },
     "output_type": "zip",
     "outputs": [
@@ -275,7 +275,7 @@
             ]
         }
     ],
-    "timestamp": "2020-04-24T22:02:03",
+    "timestamp": "2020-07-31T21:31:31",
     "type": "EAGLE CAM job",
     "units": "metric",
     "version": "9.2.0"
